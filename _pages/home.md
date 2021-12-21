@@ -56,4 +56,5 @@ We are grateful for funding from DARPA.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/darpa.jpeg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/rr.png" style="width: 150px">
 </figure>

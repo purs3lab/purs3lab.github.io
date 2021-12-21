@@ -1,6 +1,6 @@
 - name: Jayashree Srinivasan
   photo: rock.jpg
-  info: M.S Student at Purdue.
+  info: M.S Student at Purdue
   email: srinivaj@purdue.edu
   number_educ: 2
   education1: B.E, Electronics and Communication Engineering, Anna University.
@@ -8,7 +8,7 @@
 
 - name: ArunKumar Bhattar
   photo: akumar.jpeg
-  info: M.S Student at Purdue.
+  info: M.S Student at Purdue
   email: bhattar1@purdue.edu
   number_educ: 2
   education1: B.E, Electronics and Communication Engineering, SRM Institute of Science and Technology.
@@ -16,7 +16,7 @@
 
 - name: Vedaant Rajoo
   photo: vraj.jpeg
-  info: M.S Student at Purdue.
+  info: M.S Student at Purdue
   email: vrajoo@purdue.edu
   number_educ: 2
   education1: B.E, Computer Science, IIIT.
