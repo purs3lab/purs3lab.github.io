@@ -1,3 +1,10 @@
+- name: James Davis
+  photo: jamie.jpg
+  info: Assistant Professor, Purdue University
+  email: davisjam@purdue.edu
+  number_educ: 1
+  education1: Ph.D, Computer Science, Virginia Tech
+
 - name: Antonio Bianchi
   photo: antonio.png
   info: Assistant Professor, Purdue University
