@@ -52,9 +52,9 @@ We hold a [weekly reading group](https://purs3lab.github.io/reading-group/), whe
 
 Our home is Purdue Univerisity, one of the leaders in [security research](http://csrankings.org/#/index?sec) and education.
 
-We are grateful for funding from DARPA.
+We are grateful for funding from following sponsors.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/darpa.jpeg" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/rr.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/darpa.jpeg" class="img-responsive" width="25%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/rr.png" class="img-responsive" width="25%">
 </figure>
