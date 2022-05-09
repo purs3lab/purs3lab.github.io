@@ -1,3 +1,39 @@
+- title: PacJam - Securing Dependencies Continuously via Package-Oriented Debloating.
+  authors: P. Pashakhanloo, Aravind Machiry, H. Choi, A. Canino, K. Heo, I. Lee, M. Naik
+  description:
+  link:
+    url: /files/pacjam.pdf
+    display: Asia CCS 2022 - ACM ASIA Conference on Computer and Communications Security.
+  highlight: 0
+  news2:
+  
+- title: C to Checked C by 3C.
+  authors: Aravind Machiry, J. Kastner, M. McCutchen, A. Eline, K. Headley, M. Hicks
+  description:
+  link:
+    url: /files/3c.pdf
+    display: OOPSLA 2022- Object-oriented Programming, Systems, Languages, and Applications.
+  highlight: 0
+  news2:
+  
+- title: Tarnhelm - Isolated, Transparent and Confidential Execution of Arbitrary Code in ARM's TrustZone.
+  authors: D. Quarta, M. Ianni, Aravind Machiry, Y. Fratantonio, E. Gustafson, D. Balzarotti, M. Lindorfer, C.Kruegel, and G. Vigna
+  description:
+  link:
+    url: /files/tarnhelm.pdf
+    display: CheckMate 2021- Workshop on Research on Offensive and Defensive Techniques in the Context of Man At The End Attacks.
+  highlight: 0
+  news2:
+  
+- title: Toward a Secure Crowdsourced Location Tracking System.
+  authors: C. Garg, Aravind Machiry, A. Continella, C. Kruegel, and G. Vigna
+  description:
+  link:
+    url: /files/secrow.pdf
+    display: WiSec 2021- ACM Conference on Security and Privacy in Wireless and Mobile Networks.
+  highlight: 0
+  news2:
+  
 - title: ARBITRAR - User-Guided API Misuse Detection.
   authors: Z. Li, Aravind Machiry , B. Chen, M. Naik, K. Wang, L. Song
   description:
