@@ -11,3 +11,24 @@
   email: pamusuo@purdue.edu
   number_educ: 1
   education1: B.E, Electronics and Communication Engineering, Federal University of Technology.
+
+- name: ArunKumar Bhattar
+  photo: akumar.jpeg
+  info: Ph.D Student at Purdue
+  email: bhattar1@purdue.edu
+  number_educ: 2
+  education1: B.E, Electronics and Communication Engineering, SRM Institute of Science and Technology.
+
+- name: Ayushi Sharma
+  photo: ayushi.jpeg
+  info: Ph.D Student at Purdue
+  email: sharm616@purdue.edu
+  number_educ: 1
+  education1: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
+
+- name: Akul Pillai
+  photo: akul.jpeg
+  info: Ph.D Student at Purdue
+  email: pillai23@purdue.edu
+  number_educ: 1
+  education1: B.E, Computer Science, Amrita Vishwa Vidyapeetham.

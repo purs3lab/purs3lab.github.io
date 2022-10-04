@@ -1,3 +1,30 @@
+- title: Cornucopia - A Framework for Feedback Guided Generation of Binaries.
+  authors: V. Singhal, A. Pillai, C. Saumya, M. Kulkarni, Aravind Machiry
+  description:
+  link:
+    url: /files/cornucopia.pdf
+    display: ASE 2022 - Proceedings of the 37th ACM International Conference on Automated Software Engineering.
+  highlight: 0
+  news2:
+
+- title: TEEzz - Fuzzing Trusted Applications on COTS Android Devices.
+  authors: M. Busch, M. Payer, Aravind Machiry , C. Kruegel, G. Vigna, C. Spensky
+  description:
+  link:
+    url: /files/teezz.pdf
+    display: S&P 2023- 44th IEEE Symposium on Security and Privacy.
+  highlight: 0
+  news2:
+
+- title: Characterizing the Security of Github CI Workflows.
+  authors: I. Koishybayev, A. Nahapetyan, R. Zachariah, S. Muralee, B. Reaves, A. Kapravelos, Aravind Machiry
+  description:
+  link:
+    url: /files/gwchecker.pdf
+    display: USENIX Security 2022 - Proceedings of the 31st USENIX Security Symposium.
+  highlight: 0
+  news2:
+
 - title: PacJam - Securing Dependencies Continuously via Package-Oriented Debloating.
   authors: P. Pashakhanloo, Aravind Machiry, H. Choi, A. Canino, K. Heo, I. Lee, M. Naik
   description:
