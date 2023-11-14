@@ -5,6 +5,13 @@
   number_educ: 1
   education1: Ph.D, Computer Science, Virginia Tech
 
+- name: Santiago Torres Arias
+  photo: santiago.jpg
+  info: Assistant Professor, Purdue University
+  email: santiagotorres@purdue.edu
+  number_educ: 1
+  education1: Ph.D, Computer Science, NYU
+
 - name: Antonio Bianchi
   photo: antonio.png
   info: Assistant Professor, Purdue University
@@ -18,10 +25,3 @@
   email: mhnaik@cis.upenn.edu
   number_educ: 1
   education1: Ph.D, Computer Science, Stanford University
-
-- name: Michael Hicks
-  photo: mike.jpg
-  info: Professor, University of Maryland, College Park, MD
-  email: mwh@cs.umd.edu
-  number_educ: 1
-  education1: Ph.D, Computer Science, University of Pennsylvania

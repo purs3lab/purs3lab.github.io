@@ -2,40 +2,86 @@
   photo: r3x.jpeg
   info: Ph.D Student at Purdue
   email: siddharth.muralee@gmail.com
-  number_educ: 1
-  education1: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
+  number_educ: 2
+  education1: Started Fall 2021
+  education2: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
 
 - name: Paschal Chukwuebuk Amusuo
   photo: pascal.jpeg
   info: Ph.D Student at Purdue
   email: pamusuo@purdue.edu
-  number_educ: 1
+  number_educ: 2
+  education1: Started Fall 2021
   education1: B.E, Electronics and Communication Engineering, Federal University of Technology.
 
 - name: ArunKumar Bhattar
   photo: akumar.jpeg
   info: Ph.D Student at Purdue
   email: bhattar1@purdue.edu
-  number_educ: 1
+  number_educ: 2
+  education1: Started Spring 2022
   education1: B.E, Electronics and Communication Engineering, SRM Institute of Science and Technology.
 
 - name: Ayushi Sharma
   photo: ayushi.jpeg
   info: Ph.D Student at Purdue
   email: sharm616@purdue.edu
-  number_educ: 1
+  number_educ: 2
+  education1: Started Fall 2022
   education1: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
 
 - name: Akul Pillai
   photo: akul.jpeg
   info: Ph.D Student at Purdue
   email: pillai23@purdue.edu
-  number_educ: 1
+  number_educ: 2
+  education1: Started Fall 2022
   education1: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
 
 - name: Connor Everett Glosner
   photo: connor.jpg
   info: Ph.D Student at Purdue
   email: cglosne@purdue.edu
-  number_educ: 1
+  number_educ: 2
+  education1: Started Fall 2022
   education1: B.S, Computer Science, Rensselaer Polytechnic Institute.
+
+- name: Mingjie Shen
+  photo: rock.jpg
+  info: Ph.D Student at Purdue
+  email: shen497@purdue.edu
+  number_educ: 2
+  education1: Started Spring 2023
+  education1: B.S, Computer Science, Nanjing University.
+
+- name: Sourag C
+  photo: sourag.jpeg
+  info: Ph.D Student at Purdue
+  email: scherupa@purdue.edu
+  number_educ: 2
+  education1: Started Fall 2023
+  education1: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
+
+- name: Sai Ritvik Tanksalkar
+  photo: ritvik.jpeg
+  info: Ph.D Student at Purdue
+  email: stanksal@purdue.edu
+  number_educ: 2
+  education1: Started Fall 2023
+  education1: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
+
+- name: Datta Manikanta Sri Hari Danduri
+  photo: srihari.jpeg
+  info: Ph.D Student at Purdue
+  email: ddanduri@purdue.edu
+  number_educ: 2
+  education1: Started Fall 2023
+  education1: M.S, Computer Science, Arizona State University.
+
+- name: Shashank Sharma
+  photo: shank.jpeg
+  info: Ph.D Student at Purdue
+  email: sharm611@purdue.edu
+  number_educ: 2
+  education1: Started Spring 2024
+  education1: M.S, Computer Science, Purdue University.
