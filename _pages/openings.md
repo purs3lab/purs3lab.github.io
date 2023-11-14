@@ -14,8 +14,7 @@ You get to work on interesting and high impact system security problems. You wil
 
 ### Current open positions
 
-* PostDoc 
-* PhD students (Multiple)
+* PostDoc
 
 ### Current Master/Undergraduate students at Purdue
 If you are a Master or Undergraduate student at Purdue University and have experience building/breaking/engineering systems and interested in security research, contact me (or any group member) per email or stop by my office.

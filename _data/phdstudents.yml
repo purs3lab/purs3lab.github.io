@@ -12,7 +12,7 @@
   email: pamusuo@purdue.edu
   number_educ: 2
   education1: Started Fall 2021
-  education1: B.E, Electronics and Communication Engineering, Federal University of Technology.
+  education2: B.E, Electronics and Communication Engineering, Federal University of Technology.
 
 - name: ArunKumar Bhattar
   photo: akumar.jpeg
@@ -20,7 +20,7 @@
   email: bhattar1@purdue.edu
   number_educ: 2
   education1: Started Spring 2022
-  education1: B.E, Electronics and Communication Engineering, SRM Institute of Science and Technology.
+  education2: B.E, Electronics and Communication Engineering, SRM Institute of Science and Technology.
 
 - name: Ayushi Sharma
   photo: ayushi.jpeg
@@ -28,7 +28,7 @@
   email: sharm616@purdue.edu
   number_educ: 2
   education1: Started Fall 2022
-  education1: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
+  education2: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
 
 - name: Akul Pillai
   photo: akul.jpeg
@@ -36,7 +36,7 @@
   email: pillai23@purdue.edu
   number_educ: 2
   education1: Started Fall 2022
-  education1: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
+  education2: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
 
 - name: Connor Everett Glosner
   photo: connor.jpg
@@ -44,7 +44,7 @@
   email: cglosne@purdue.edu
   number_educ: 2
   education1: Started Fall 2022
-  education1: B.S, Computer Science, Rensselaer Polytechnic Institute.
+  education2: B.S, Computer Science, Rensselaer Polytechnic Institute.
 
 - name: Mingjie Shen
   photo: rock.jpg
@@ -52,7 +52,7 @@
   email: shen497@purdue.edu
   number_educ: 2
   education1: Started Spring 2023
-  education1: B.S, Computer Science, Nanjing University.
+  education2: B.S, Computer Science, Nanjing University.
 
 - name: Sourag C
   photo: sourag.jpeg
@@ -60,7 +60,7 @@
   email: scherupa@purdue.edu
   number_educ: 2
   education1: Started Fall 2023
-  education1: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
+  education2: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
 
 - name: Sai Ritvik Tanksalkar
   photo: ritvik.jpeg
@@ -68,7 +68,7 @@
   email: stanksal@purdue.edu
   number_educ: 2
   education1: Started Fall 2023
-  education1: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
+  education2: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
 
 - name: Datta Manikanta Sri Hari Danduri
   photo: srihari.jpeg
@@ -76,7 +76,7 @@
   email: ddanduri@purdue.edu
   number_educ: 2
   education1: Started Fall 2023
-  education1: M.S, Computer Science, Arizona State University.
+  education2: M.S, Computer Science, Arizona State University.
 
 - name: Shashank Sharma
   photo: shank.jpeg
@@ -84,4 +84,4 @@
   email: sharm611@purdue.edu
   number_educ: 2
   education1: Started Spring 2024
-  education1: M.S, Computer Science, Purdue University.
+  education2: M.S, Computer Science, Purdue University.
