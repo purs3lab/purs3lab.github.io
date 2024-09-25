@@ -1,9 +1,12 @@
-- date: Nov 2023
-  headline: "Our <b>Dynodroid</b> paper got Test of Time Award."
+- date: Aug 2024
+  headline: "<b>NSF CAREER Award </b> for Securing Deeply Embedded Software."
 
-- date: Jun 2023
-  headline: "<b>NSF SaTC Medium</b> for Security Verification of CI Workflows."
+- date: Aug 2024
+  headline: "Our <b>VERIBIN</b> paper got accepted to NDSS 2025."
 
-- date: Mar 2023
-  headline: "<b>Amazon ARA Award</b> for Security Verification of CI Workflows."
+- date: Jul 2024
+  headline: "Our <b>Rust For Embedded Systems</b> got accepted at ACM CCS 2024."
+
+- date: Jan 2024
+  headline: "Our <b>LLMs for GitHub Workflows</b> got accepted at ARES 2024."
 

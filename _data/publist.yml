@@ -1,3 +1,84 @@
+- title: VERIBIN - Adaptive Verification of Patches at the Binary Level.
+  authors: H. Wu, J. Wu, R. Wu, A. Sharma, Aravind Machiry , A. Bianchi
+  description:
+  link:
+    url: /files/veribin.pdf
+    display: NDSS 2025 - Proceedings of the ISOC Network and Distributed System Security Symposium.
+  highlight: 0
+  news2:
+
+- title: Rust for Embedded Systems - Current State and Open Problems.
+  authors: A Sharma, S Sharma, S Torres-Arias, Aravind Machiry
+  description:
+  link:
+    url: /files/rustembedded.pdf
+    display: ACM CCS 2024 - Proceedings of the 31st ACM Conference on Computer and Communications Security.
+  highlight: 0
+  news2:
+
+- title: TYGR - Type Inference on Stripped Binaries using Graph Neural Networks.
+  authors: C Zhu, Z Li, A Xue, AP Bajaj, W Gibbs, Y Liu, R Alur, T. Bao, H. Dai, A. Doupé, M. Naik, Y. Shoshitaishvili, R. Wang, Aravind Machiry
+  description:
+  link:
+    url: /files/tygrusenix2024.pdf
+    display: USENIX Security 2024 - Proceedings of the 33rd USENIX Security Symposium.
+  highlight: 0
+  news2:
+
+- title: On the effectiveness of large language models for github workflows.
+  authors: X Zhang, S Muralee, S Cherupattamoolayil, Aravind Machiry
+  description:
+  link:
+    url: /files/ares.pdf
+    display: ARES 2024 - Proceedings of the 19th International Conference on Availability, Reliability and Security.
+  highlight: 0
+  news2:
+
+- title: Precision Guided Approach to Mitigate Data Poisoning Attacks in Federated Learning.
+  authors: N. Kumar K, K. Mohan C, Aravind Machiry.
+  description:
+  link:
+    url: /files/fedzz.pdf
+    display: ACM CODASPY 2024 - Proceedings of the 14th ACM Conference on Data and Application Security and Privacy.
+  highlight: 0
+  news2:
+
+- title: Fuzzing API Error Handling Behaviors using Coverage Guided Fault Injection.
+  authors: S. Sharma, S.R. Tanksalkar, S. Cherupattamoolayil, Aravind Machiry.
+  description:
+  link:
+    url: /files/fuzzerr.pdf
+    display: Asia CCS 2024 - ACM ASIA Conference on Computer and Communications Security.
+  highlight: 0
+  news2:
+
+- title: Systematically Detecting Packet Validation Vulnerabilities in Embedded Network Stacks.
+  authors: P. Amusuo, R. Méndez, Z. Xu, Aravind Machiry, J. Davis.
+  description:
+  link:
+    url: /files/emnest.pdf
+    display: ASE 2023 - Proceedings of the 38th ACM International Conference on Automated Software Engineering.
+  highlight: 0
+  news2:
+
+- title: ARGUS - A Framework for Staged Static Taint Analysis of GitHub Workflows and Actions.
+  authors: S. Muralee, I. Koishybayev, A. Nahapetyan, G. Tystahl, B. Reaves, A. Bianchi, W. Enck, A. Kapravelos, Aravind Machiry.
+  description:
+  link:
+    url: /files/argus.pdf
+    display: USENIX Security 2023 - Proceedings of the 32nd USENIX Security Symposium.
+  highlight: 0
+  news2:
+
+- title: Security Properties of Virtual Remotes and SPOOKing their violations.
+  authors: J. Majors, E. Barsallo Yi, A. Maji, D. Wu, S. Bagchi, Aravind Machiry.
+  description:
+  link:
+    url: /files/spook.pdf
+    display: Asia CCS 2023 - ACM ASIA Conference on Computer and Communications Security.
+  highlight: 0
+  news2:
+
 - title: Cornucopia - A Framework for Feedback Guided Generation of Binaries.
   authors: V. Singhal, A. Pillai, C. Saumya, M. Kulkarni, Aravind Machiry
   description:

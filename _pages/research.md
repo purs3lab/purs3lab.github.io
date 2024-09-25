@@ -38,6 +38,4 @@ On this front, we are exploring the use of various Machine Learning techniques t
 
 **Fuzzing : New Frontiers**. In general, fuzzing or automated dynamic testing of complex systems (IoT devices, Kernel Drivers, Network Programs, etc.) is still a very hard problem. We explore different techniques that will enable a security researcher to help the fuzzing techniques to test these complex programs effectively. We have exciting ideas in this direction. Get in touch to know more.
 
-**Assured Micropatching (DICER).** DICER is a recompilation pipeline, performing assured recompilation of a patched binary, leveraging information extracted from the original binary. Specifically, DICER is able to optimally recompile a patched binary (minimizing the differences with the original binary), and, at the same time, assure its functionality using multi-layer verifications. This is part of a DARPA funded project and has various interesting problems to be explored.
-
 ### ... and more.

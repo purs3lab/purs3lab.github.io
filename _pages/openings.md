@@ -10,10 +10,11 @@ permalink: /vacancies
 
 We are always looking for new group members with passion, talent, and grit!
 
-You get to work on interesting and high impact system security problems. You will learn about using principled yet practical techniques to solve complex security problems. More importantly, you will enjoy interacting with our fun and talented members of PurS3. 
+You get to work on interesting and high impact system security problems. You will learn about using principled yet practical techniques to solve complex security problems. More importantly, you will enjoy interacting with our fun and talented members of PurS3.
 
 ### Current open positions
 
+* Ph.D
 * PostDoc
 
 ### Current Master/Undergraduate students at Purdue
