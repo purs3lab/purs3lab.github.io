@@ -1,9 +1,36 @@
+- title: FuzzUEr: Enabling Fuzzing of UEFI Interfaces.
+  authors: C. Glosner, Aravind Machiry
+  description:
+  link:
+    url: /files/fuzzuerr.pdf
+    display: NDSS 2025 - Proceedings of the ISOC Network and Distributed System Security Symposium.
+  highlight: 0
+  news2:
+
 - title: VERIBIN - Adaptive Verification of Patches at the Binary Level.
   authors: H. Wu, J. Wu, R. Wu, A. Sharma, Aravind Machiry , A. Bianchi
   description:
   link:
     url: /files/veribin.pdf
     display: NDSS 2025 - Proceedings of the ISOC Network and Distributed System Security Symposium.
+  highlight: 0
+  news2:
+
+  - title: Detection of Device Triggerable Vulnerabilities in Android Companion Apps through Interactive Triaging.
+  authors: A. Padala, S. Bagchi, Aravind Machiry
+  description:
+  link:
+    url: /files/sacandroid.pdf
+    display: SAC 2025 - Proceedings 40th ACM/SIGAPP Symposium on Applied Computing.
+  highlight: 0
+  news2:
+
+  - title: Insights from Running 24 Static Analysis Tools on Open Source Software Repositories.
+  authors: Hashmat, F., Aljaali, Z.A., Shen, Aravind Machiry
+  description:
+  link:
+    url: /files/sastiss.pdf
+    display: ISS 2024 - Proceedings of the Information Systems Security.
   highlight: 0
   news2:
 
