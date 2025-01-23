@@ -16,7 +16,7 @@
   highlight: 0
   news2:
 
-  - title: Detection of Device Triggerable Vulnerabilities in Android Companion Apps through Interactive Triaging.
+- title: Detection of Device Triggerable Vulnerabilities in Android Companion Apps through Interactive Triaging.
   authors: A. Padala, S. Bagchi, Aravind Machiry
   description:
   link:
@@ -25,7 +25,7 @@
   highlight: 0
   news2:
 
-  - title: Insights from Running 24 Static Analysis Tools on Open Source Software Repositories.
+- title: Insights from Running 24 Static Analysis Tools on Open Source Software Repositories.
   authors: Hashmat, F., Aljaali, Z.A., Shen, Aravind Machiry
   description:
   link:
