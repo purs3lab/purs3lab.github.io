@@ -8,13 +8,23 @@
   news2:
 
 - title: VERIBIN - Adaptive Verification of Patches at the Binary Level.
-  authors: H. Wu, J. Wu, R. Wu, A. Sharma, Aravind Machiry , A. Bianchi
+  authors: H. Wu, J. Wu, R. Wu, A. Sharma, Aravind Machiry, A. Bianchi
   description:
   link:
     url: /files/veribin.pdf
     display: NDSS 2025 - Proceedings of the ISOC Network and Distributed System Security Symposium.
   highlight: 0
   news2:
+
+- title: ZTDJAVA - Mitigating Software Supply Chain Vulnerabilities via Zero-Trust Dependencies.
+  authors: P. Amusuo, K. A. Robinson, T. Singla, H. Peng, Aravind Machiry, S Torres-Arias, L. Simon, J. Davis
+  description:
+  link:
+    url: /files/javaztdicse2025.pdf
+    display: ICSE 2025 - Proceedings of the 47th IEEE/ACM International Conference on Software Engineering.
+  highlight: 0
+  news2:
+
 
 - title: Detection of Device Triggerable Vulnerabilities in Android Companion Apps through Interactive Triaging.
   authors: A. Padala, S. Bagchi, Aravind Machiry
