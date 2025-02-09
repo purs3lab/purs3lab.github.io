@@ -6,14 +6,6 @@
   education1: Started Fall 2021
   education2: B.E, Computer Science, Amrita Vishwa Vidyapeetham.
 
-- name: Paschal Chukwuebuk Amusuo
-  photo: pascal.jpeg
-  info: Ph.D Student at Purdue
-  email: pamusuo@purdue.edu
-  number_educ: 2
-  education1: Started Fall 2021
-  education2: B.E, Electronics and Communication Engineering, Federal University of Technology.
-
 - name: Ayushi Sharma
   photo: ayushi.jpeg
   info: Ph.D Student at Purdue
@@ -77,3 +69,11 @@
   number_educ: 2
   education1: Started Spring 2024
   education2: M.S, Computer Science, Purdue University.
+
+- name: Xinyu Zhang
+  photo: rock.jpg
+  info: Ph.D Student at Purdue
+  email: zhan5085@purdue.edu
+  number_educ: 2
+  education1: Started Fall 2024
+  education2: M.S, Computer Science, NYU.

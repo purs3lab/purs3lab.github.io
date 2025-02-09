@@ -248,6 +248,7 @@ Jump to [Faculty](#faulty), [Collaborators](#collaborators), [PhD Students](#phd
 </div>
 {% endif %}
 
+{% if site.data.interns.length > 0 %}
 
 ## Interns
 {% assign number_printed = 0 %}
@@ -301,4 +302,6 @@ Jump to [Faculty](#faulty), [Collaborators](#collaborators), [PhD Students](#phd
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
+{% endif %}
+
 {% endif %}
