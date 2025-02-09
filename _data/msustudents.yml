@@ -1,7 +1,15 @@
-- name: Jayashree Srinivasan
+- name: ArunKumar Bhattar
+  photo: akumar.jpeg
+  info: M.S Student at Purdue
+  email: bhattar1@purdue.edu
+  number_educ: 2
+  education1: Started Spring 2022
+  education2: B.E, Electronics and Communication Engineering, SRM Institute of Science and Technology.
+
+- name: Fatma Alwasmi
   photo: rock.jpg
   info: M.S Student at Purdue
-  email: srinivaj@purdue.edu
+  email: falwasmi@purdue.edu
   number_educ: 2
-  education1: B.E, Electronics and Communication Engineering, Anna University.
-  education2: M.S, Electronics and Communication Engineering, Purdue University.
+  education1: Started Spring 2025
+  education2: B.E, Computer Engineering, Penn State.
