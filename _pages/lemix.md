@@ -21,7 +21,7 @@ permalink: /lemix/
 - ❌ **No Emulation Needed** - Direct execution without emulation overhead
 - 🔄 **Architecture Agnostic** - Works across different embedded architectures
 
-📄 [**Read the Whitepaper**](./files/LemixCameraReady.pdf)
+📄 [**Read the Whitepaper**](/files/LemixCameraReady.pdf)
 
 ---
 
