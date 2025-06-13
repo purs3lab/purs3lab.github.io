@@ -33,10 +33,8 @@ Built with ❤️ by [**Purdue Systems and Software Security Lab (PurS3)**](http
 
 ## 🔗 Resources
 
-| Platform | Link |
-|----------|------|
-| 📦 **Zenodo** | https://zenodo.org/records/15611391 |
-| 💻 **GitHub** | https://github.com/purs3lab/Lemix |
+- 📦 **Zenodo**: [https://zenodo.org/records/15611391](https://zenodo.org/records/15611391)
+- 💻 **GitHub**: [https://github.com/purs3lab/Lemix](https://github.com/purs3lab/Lemix)
 
 ---
 
