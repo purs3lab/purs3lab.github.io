@@ -1,3 +1,11 @@
+---
+title: "Lemix"
+layout: gridlay
+excerpt: "PurS3 Lab's Project : Lemix"
+sitemap: false
+permalink: /lemix/
+---
+
 # 🔧 Lemix
 
 > *Automated Framework to Port and Fuzz Embedded Applications on Linux*
