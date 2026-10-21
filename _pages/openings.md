@@ -15,16 +15,15 @@ You get to work on interesting and high impact system security problems. You wil
 ### Current open positions
 
 * Ph.D
-* PostDoc
 
 ### Current Master/Undergraduate students at Purdue
-If you are a Master or Undergraduate student at Purdue University and have experience building/breaking/engineering systems and interested in security research, contact me (or any group member) per email or stop by my office.
+If you are a Master or Undergraduate student at Purdue University and interested in security research, please see the requirements and instructions on [how to contact me](https://machiry.github.io/advising/).
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:amachiry@purdue.edu). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. **Important**: please insert _"Application PhD for PurS3"_ or _"Application Postdoc for PurS3"_ in the subject line. For PhD students, please make sure that you [apply](https://engineering.purdue.edu/ECE/Academics/Graduates/Admissions) for Purdue ECE PhD program and mention me as your advisor.
+### Applications for PhD positions
+If you are interested in working with us as a PhD student, please follow the instructions on [how to contact me](https://machiry.github.io/advising/). Please also make sure that you [apply](https://engineering.purdue.edu/ECE/Academics/Graduates/Admissions) for Purdue ECE PhD program and mention me as your advisor.
 
 ### Interns
-If you are interested in gaining research experience by solving cutting edge system security problems. Please do not hesitate to contact us.
+If you are interested in gaining research experience by solving cutting edge system security problems, please follow the instructions on [how to contact me](https://machiry.github.io/advising/).
 
 
 <figure>

@@ -8,7 +8,7 @@ permalink: /
 
 The goal of **Pur**due **S**ystems and **S**oftware **S**ecurity Lab (PurS3) is to secure modern systems by providing principled yet practical solutions to various security problems.
 
- **We are  looking for passionate new Ph.D students, Postdocs, interns, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new Ph.D students, interns, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
  
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -47,8 +47,6 @@ The goal of **Pur**due **S**ystems and **S**oftware **S**ecurity Lab (PurS3) is 
 
 We work on all kinds of systems, including Mobile, IoT,  TrustZone, etc.
 Our research spans various areas such as Vulnerability detection and Mitigating, Secure system development, Hardware Security, Type-safe languages, Software Diversity, and, Rehosting, to name a few.
-
-We hold a [weekly reading group](https://purs3lab.github.io/reading-group/), where we read both academic and non-academic articles related to various topics related to Computer Security.
 
 Our home is Purdue Univerisity, one of the leaders in [security research](http://csrankings.org/#/index?sec) and education.
 

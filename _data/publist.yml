@@ -1,3 +1,102 @@
+- title: SoK - All You Ever Wanted to Know About Bootloader Security But Were Afraid to Ask.
+  authors: C. Glosner, Aravind Machiry
+  description:
+  link:
+    url: /files/soksp2026.pdf
+    display: S&P 2026 - Proceedings of the 47th IEEE Symposium on Security and Privacy.
+  highlight: 0
+  news2:
+
+- title: Cosseter - GitHub Actions Permission Reduction Using Demand-Driven Static Analysis.
+  authors: G. Tystahl, J. Ghebremichael, S. Muralee, S Cherupattamoolayil, A. Bianchi, Aravind Machiry, A. Kapravelos, W. Enck
+  description:
+  link:
+    url: /files/cossetersp26.pdf
+    display: S&P 2026 - Proceedings of the 47th IEEE Symposium on Security and Privacy.
+  highlight: 0
+  news2:
+
+- title: Do Unit Proofs Work? An Empirical Study of Compositional Bounded Model Checking for Memory Safety Verification.
+  authors: P. Amusuo, O. Cochell, T.V. Lievre, P.V. Patil, Aravind Machiry, J.C Davis
+  description:
+  link:
+    url: /files/unitprooficse2026.pdf
+    display: ICSE 2026 - Proceedings of the 48th IEEE/ACM International Conference on Software Engineering.
+  highlight: 0
+  news2:
+
+- title: DisTrust - Adaptive Trust-Based Verification for Resilient Distributed Computation.
+  authors: F. Afiouni, S. Bagchi, Aravind Machiry
+  description:
+  link:
+    url: /files/distrustdsnw2026.pdf
+    display: DSN-W 2026 - 56th Annual IEEE International Conference on Dependable Systems and Networks Workshops.
+  highlight: 0
+  news2:
+
+- title: AnBridge - Protecting On-Device AI with Android Virtualization Framework.
+  authors: G. Farina, R. Della Corte, Aravind Machiry, M. Cinque, S. Bagchi
+  description:
+  link:
+    url: /files/anbridgedsn2026.pdf
+    display: DSN 2026 - 56th Annual IEEE International Conference on Dependable Systems and Networks.
+  highlight: 0
+  news2:
+
+- title: TypeFlexer - Type Directed Flexible Program Partitioning.
+  authors: A. Bhattar, L. Li, M. Zhu, L. Chang, Aravind Machiry
+  description:
+  link:
+    url: /files/typeflexerraid2025.pdf
+    display: RAID 2025 - Proceedings of the 28th International Symposium on Research in Attacks, Intrusions and Defenses.
+  highlight: 0
+  news2:
+
+- title: LEMIX - Enabling Testing of Embedded Applications as Linux Applications.
+  authors: S.R. Tanksalkar, S. Muralee, S. Danduri, P. Amusuo, A. Bianchi, J.C Davis, Aravind Machiry
+  description:
+  link:
+    url: /files/lemixusenix2025.pdf
+    display: USENIX Security 2025 - Proceedings of the 34th USENIX Security Symposium.
+  highlight: 0
+  news2:
+
+- title: FlexGE - Towards Secure and Flexible Model Partition for Deep Neural Networks.
+  authors: X. Wu, Aravind Machiry, Yung. Lu, D. Tian
+  description:
+  link:
+    url: /files/flexgedimva2025.pdf
+    display: DIMVA 2025 - 22nd International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment.
+  highlight: 0
+  news2:
+
+- title: Multi-Device Context-Sensitive Attacks Against Privacy.
+  authors: E. Barsallo Yi, J. Majors, A. Padala, D. Wu, Aravind Machiry, S. Bagchi
+  description:
+  link:
+    url: /files/madcap.pdf
+    display: ACM CODASPY 2025 - Proceedings of the 15th ACM Conference on Data and Application Security and Privacy.
+  highlight: 0
+  news2:
+
+- title: Adding spatial memory safety to EDK II through Checked C.
+  authors: S. Cherupattamoolayil, C. E. Glosner, A. Bhattar, Aravind Machiry
+  description:
+  link:
+    url: /files/e3c.pdf
+    display: ISSTA 2025 - Proceedings of the 34th ACM SIGSOFT International Symposium on Software Testing and Analysis.
+  highlight: 0
+  news2:
+
+- title: An Empirical Study on the Use of Static Analysis Tools in Open Source Embedded Software.
+  authors: M. Shen, A. Pillai, B. A. Yuan, J. C. Davis, Aravind Machiry
+  description:
+  link:
+    url: /files/embosssast.pdf
+    display: ISSTA 2025 - Proceedings of the 34th ACM SIGSOFT International Symposium on Software Testing and Analysis.
+  highlight: 0
+  news2:
+
 - title: FuzzUEr - Enabling Fuzzing of UEFI Interfaces.
   authors: C. Glosner, Aravind Machiry
   description:
@@ -165,7 +264,7 @@
   authors: D. Quarta, M. Ianni, Aravind Machiry, Y. Fratantonio, E. Gustafson, D. Balzarotti, M. Lindorfer, C.Kruegel, and G. Vigna
   description:
   link:
-    url: /files/tarnhelm.pdf
+    url: /files/tarenhelm.pdf
     display: CheckMate 2021- Workshop on Research on Offensive and Defensive Techniques in the Context of Man At The End Attacks.
   highlight: 0
   news2:
@@ -323,12 +422,30 @@
   highlight: 0
   news2:
 
+- title: Mechanical Phish - Resilient Autonomous Hacking.
+  authors: A. Bianchi, K. Borgolte, J. Corbetta, F. Disperati, A. Dutcher, J. Grosen, P. Grosen, Aravind Machiry, C. Salls, N. Stephens, G. Vigna, R. Wang (Authors listed alphabetically)
+  description:
+  link:
+    url: 
+    display: IEEE Security & Privacy Magazine 2018 - SPSI - Hacking without Humans.
+  highlight: 0
+  news2:
+
 - title: BootStomp - On the Security of Bootloaders in Mobile Devices.
   authors: N. Redini, Aravind Machiry, D. Das, Y. Fratantonio, A. Bianchi, E. Gustafson, Y. Shoshitaishvili, C. Kruegel, G. Vigna.
   description:
   link:
     url: https://media.ccc.de/v/34c3-9205-bootstomp_on_the_security_of_bootloaders_in_mobile_devices
     display: 34C3 - Chaos Communication Congress 2017.
+  highlight: 0
+  news2:
+
+- title: DIFUZZING Android Kernel Drivers.
+  authors: J. Corina, Aravind Machiry, C. Salls, Y. Shoshitaishvili, S. Hao
+  description:
+  link:
+    url: 
+    display: Black Hat Europe, London, UK, December 2017.
   highlight: 0
   news2:
 
