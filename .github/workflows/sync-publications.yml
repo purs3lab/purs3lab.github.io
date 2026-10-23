@@ -1,0 +1,31 @@
+name: Sync publications
+
+# Mirrors https://machiry.github.io/publications/ into _data/publist.yml.
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerate publication list
+        run: python3 .github/scripts/sync_publications.py
+
+      - name: Commit changes
+        run: |
+          git add _data/publist.yml files
+          if git diff --cached --quiet; then
+            echo "Publications already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Sync publications from machiry.github.io"
+          git push

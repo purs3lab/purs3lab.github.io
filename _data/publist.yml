@@ -124,7 +124,6 @@
   highlight: 0
   news2:
 
-
 - title: Detection of Device Triggerable Vulnerabilities in Android Companion Apps through Interactive Triaging.
   authors: A. Padala, S. Bagchi, Aravind Machiry
   description:
@@ -171,7 +170,7 @@
   news2:
 
 - title: Precision Guided Approach to Mitigate Data Poisoning Attacks in Federated Learning.
-  authors: N. Kumar K, K. Mohan C, Aravind Machiry.
+  authors: N. Kumar K, K. Mohan C, Aravind Machiry
   description:
   link:
     url: /files/fedzz.pdf
@@ -180,16 +179,16 @@
   news2:
 
 - title: Fuzzing API Error Handling Behaviors using Coverage Guided Fault Injection.
-  authors: S. Sharma, S.R. Tanksalkar, S. Cherupattamoolayil, Aravind Machiry.
+  authors: S. Sharma, S.R. Tanksalkar, S. Cherupattamoolayil, Aravind Machiry
   description:
   link:
     url: /files/fuzzerr.pdf
-    display: Asia CCS 2024 - ACM ASIA Conference on Computer and Communications Security.
+    display: Asia CCS 2024 - ACM ASIA Conference on Computer and Communications Security
   highlight: 0
   news2:
 
 - title: Systematically Detecting Packet Validation Vulnerabilities in Embedded Network Stacks.
-  authors: P. Amusuo, R. Méndez, Z. Xu, Aravind Machiry, J. Davis.
+  authors: P. Amusuo, R. Méndez, Z. Xu, Aravind Machiry, J. Davis
   description:
   link:
     url: /files/emnest.pdf
@@ -198,7 +197,7 @@
   news2:
 
 - title: ARGUS - A Framework for Staged Static Taint Analysis of GitHub Workflows and Actions.
-  authors: S. Muralee, I. Koishybayev, A. Nahapetyan, G. Tystahl, B. Reaves, A. Bianchi, W. Enck, A. Kapravelos, Aravind Machiry.
+  authors: S. Muralee, I. Koishybayev, A. Nahapetyan, G. Tystahl, B. Reaves, A. Bianchi, W. Enck, A. Kapravelos, Aravind Machiry
   description:
   link:
     url: /files/argus.pdf
@@ -207,11 +206,20 @@
   news2:
 
 - title: Security Properties of Virtual Remotes and SPOOKing their violations.
-  authors: J. Majors, E. Barsallo Yi, A. Maji, D. Wu, S. Bagchi, Aravind Machiry.
+  authors: J. Majors, E. Barsallo Yi, A. Maji, D. Wu, S. Bagchi, Aravind Machiry
   description:
   link:
     url: /files/spook.pdf
-    display: Asia CCS 2023 - ACM ASIA Conference on Computer and Communications Security.
+    display: Asia CCS 2023 - ACM ASIA Conference on Computer and Communications Security
+  highlight: 0
+  news2:
+
+- title: TEEzz - Fuzzing Trusted Applications on COTS Android Devices.
+  authors: M. Busch, M. Payer, Aravind Machiry, C. Kruegel, G. Vigna, C. Spensky
+  description:
+  link:
+    url: /files/teezz.pdf
+    display: S&P 2023 - 44nd IEEE Symposium on Security and Privacy.
   highlight: 0
   news2:
 
@@ -224,15 +232,6 @@
   highlight: 0
   news2:
 
-- title: TEEzz - Fuzzing Trusted Applications on COTS Android Devices.
-  authors: M. Busch, M. Payer, Aravind Machiry , C. Kruegel, G. Vigna, C. Spensky
-  description:
-  link:
-    url: /files/teezz.pdf
-    display: S&P 2023- 44th IEEE Symposium on Security and Privacy.
-  highlight: 0
-  news2:
-
 - title: Characterizing the Security of Github CI Workflows.
   authors: I. Koishybayev, A. Nahapetyan, R. Zachariah, S. Muralee, B. Reaves, A. Kapravelos, Aravind Machiry
   description:
@@ -242,70 +241,79 @@
   highlight: 0
   news2:
 
+- title: Hybrid Pruning - Towards A Precise Static Analysis.
+  authors: D. Das, P. Bose, Aravind Machiry, S. Mariani, Y. Shoshitaishvili, C. Kruegel and G. Vigna
+  description:
+  link:
+    url: /files/dynstat.pdf
+    display: DIMVA 2022 - 16th International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment.
+  highlight: 0
+  news2:
+
 - title: PacJam - Securing Dependencies Continuously via Package-Oriented Debloating.
   authors: P. Pashakhanloo, Aravind Machiry, H. Choi, A. Canino, K. Heo, I. Lee, M. Naik
   description:
   link:
     url: /files/pacjam.pdf
-    display: Asia CCS 2022 - ACM ASIA Conference on Computer and Communications Security.
+    display: Asia CCS 2022 - ACM ASIA Conference on Computer and Communications Security
   highlight: 0
   news2:
-  
+
 - title: C to Checked C by 3C.
   authors: Aravind Machiry, J. Kastner, M. McCutchen, A. Eline, K. Headley, M. Hicks
   description:
   link:
     url: /files/3c.pdf
-    display: OOPSLA 2022- Object-oriented Programming, Systems, Languages, and Applications.
+    display: OOPSLA 2022 - Object-oriented Programming, Systems, Languages, and Applications
   highlight: 0
   news2:
-  
+
 - title: Tarnhelm - Isolated, Transparent and Confidential Execution of Arbitrary Code in ARM's TrustZone.
-  authors: D. Quarta, M. Ianni, Aravind Machiry, Y. Fratantonio, E. Gustafson, D. Balzarotti, M. Lindorfer, C.Kruegel, and G. Vigna
+  authors: D. Quarta, M. Ianni, Aravind Machiry, Y. Fratantonio, E. Gustafson, D. Balzarotti, M. Lindorfer, C. Kruegel, and G. Vigna
   description:
   link:
     url: /files/tarenhelm.pdf
-    display: CheckMate 2021- Workshop on Research on Offensive and Defensive Techniques in the Context of Man At The End Attacks.
+    display: CheckMate 2021 - ACM Workshop on Research on Offensive and Defensive Techniques in the Context of Man At The End Attacks.
   highlight: 0
   news2:
-  
+
 - title: Toward a Secure Crowdsourced Location Tracking System.
   authors: C. Garg, Aravind Machiry, A. Continella, C. Kruegel, and G. Vigna
   description:
   link:
     url: /files/secrow.pdf
-    display: WiSec 2021- ACM Conference on Security and Privacy in Wireless and Mobile Networks.
+    display: WiSec 2021 - ACM Conference on Security and Privacy in Wireless and Mobile Networks.
   highlight: 0
   news2:
-  
+
 - title: ARBITRAR - User-Guided API Misuse Detection.
-  authors: Z. Li, Aravind Machiry , B. Chen, M. Naik, K. Wang, L. Song
+  authors: Z. Li, Aravind Machiry, B. Chen, M. Naik, K. Wang, L. Song
   description:
   link:
     url: /files/arbitrar.pdf
-    display: S&P 2021- 42nd IEEE Symposium on Security and Privacy.
+    display: S&P 2021 - 42nd IEEE Symposium on Security and Privacy.
   highlight: 0
   news2:
-  
+
 - title: Glitching Demystified - Analyzing Control-flow-based Glitching Attacks and Defenses.
-  authors: C. Spensky, Aravind Machiry, N. Burow, H. Okhravi, R. Housley, Z. Gu, H. Jamjoom, C. Kruegel and G. Vigna 
+  authors: C. Spensky, Aravind Machiry, N. Burow, H. Okhravi, R. Housley, Z. Gu, H. Jamjoom, C. Kruegel and G. Vigna
   description:
   link:
     url: /files/glitchresistor.pdf
     display: DSN 2021 - 51st International Conference on Dependable Systems and Networks.
   highlight: 0
   news2:
-  
+
 - title: DIANE - Identifying Fuzzing Triggers in Apps to Generate Under-constrained Inputs for IoT Devices.
-  authors: N. Redini, A. Continella, D. Das, G.De Pasquale, N. Spahn, Aravind Machiry, A. Bianchi, C. Kruegel, and G. Vigna 
+  authors: N. Redini, A. Continella, D. Das, G.De Pasquale, N. Spahn, Aravind Machiry, A. Bianchi, C. Kruegel, and G. Vigna
   description:
   link:
     url: /files/diane.pdf
-    display: S&P 2021- 42nd IEEE Symposium on Security and Privacy.
+    display: S&P 2021 - 42nd IEEE Symposium on Security and Privacy.
   highlight: 0
   news2:
 
-- title: Bran - Reduce Vulnerability Search Space in Large Open Source Repositories by Learning Bug Symptoms
+- title: Bran - Reduce Vulnerability Search Space in Large Open Source Repositories by Learning Bug Symptoms.
   authors: D. Meng, M. Guerriero, Aravind Machiry, H. Aghakhani, P. Bose, A. Continella, C. Kruegel and G. Vigna
   description:
   link:
@@ -313,90 +321,81 @@
     display: Asia CCS 2021 - ACM ASIA Conference on Computer and Communications Security
   highlight: 0
   news2:
-    
-- title: Conware - Automated Modeling of Hardware Peripherals
-  authors: C. Spensky, Aravind Machiry , N. Redini, C. Unger, G. Foster, E. Balsband, H. Okhravi, C. Kruegel and G. Vigna
+
+- title: Conware - Automated Modeling of Hardware Peripherals.
+  authors: C. Spensky, Aravind Machiry, N. Redini, C. Unger, G. Foster, E. Balsband, H. Okhravi, C. Kruegel and G. Vigna
   description:
   link:
     url: /files/conware.pdf
     display: Asia CCS 2021 - ACM ASIA Conference on Computer and Communications Security
   highlight: 0
   news2:
-  
+
 - title: Exploring Abstraction Functions in Fuzzing.
-  authors: C. Salls,  Aravind Machiry , A. Doupe, Y. Shoshitaishvili, C. Kruegel, G. Vigna
+  authors: C. Salls, Aravind Machiry, A. Doupe, Y. Shoshitaishvili, C. Kruegel, G. Vigna
   description:
   link:
     url: /files/absfuzz.pdf
-    display: CNS 2020-IEEE Conference on Communications and Network Security (CNS) (IEEE CNS 2020)
+    display: CNS 2020 - IEEE Conference on Communications and Network Security (CNS) (IEEE CNS 2020)
   highlight: 0
   news2:
 
 - title: TRUST.IO - Protecting Physical Interfaces on Cyber-physical Systems.
-  authors: C. Spensky, Aravind Machiry , M. Busch, K. Leach, R. Housley, C. Kruegel, G. Vigna
+  authors: C. Spensky, Aravind Machiry, M. Busch, K. Leach, R. Housley, C. Kruegel, G. Vigna
   description:
   link:
     url: /files/trust.io.pdf
-    display: CNS 2020-IEEE Conference on Communications and Network Security (CNS) (IEEE CNS 2020)
+    display: CNS 2020 - IEEE Conference on Communications and Network Security (CNS) (IEEE CNS 2020)
   highlight: 0
   news2:
 
 - title: SPIDER - Enabling Fast Patch Propagation in Related Software Repositories.
-  authors: Aravind Machiry, N. Redini, E. Camellini, C. Kruegel and G.Vigna.
+  authors: Aravind Machiry, N. Redini, E. Camellini, C. Kruegel and G.Vigna
   description:
   link:
     url: /files/spider.pdf
-    display: S&P 2020- 41st IEEE Symposium on Security and Privacy.
+    display: S&P 2020 - 41st IEEE Symposium on Security and Privacy.
   highlight: 0
   news2:
 
 - title: KARONTE - Detecting Insecure Multi-binary Interactions in Embedded Firmware.
-  authors: N. Redini, Aravind Machiry, R. Wang, C. Spensky, A. Continella, Y. Shoshitaishvili, C. Kruegel and G.Vigna.
+  authors: N. Redini, Aravind Machiry, R. Wang, C. Spensky, A. Continella, Y. Shoshitaishvili, C. Kruegel and G.Vigna
   description:
   link:
     url: /files/karonte.pdf
-    display: S&P 2020- 41st IEEE Symposium on Security and Privacy.
-  highlight: 0
-  news2:
-
-- title: (POSTER) Automated conversion of legacy code to Checked C.
-  authors: Aravind Machiry, H. Touma, R. Chen, M. Hicks.
-  description:
-  link:
-    url: /files/secdevauto.pdf
-    display: SecDev 2019- IEEE Secure Development Conference.
+    display: S&P 2020 - 41st IEEE Symposium on Security and Privacy.
   highlight: 0
   news2:
 
 - title: Toward the Analysis of Embedded Firmware through Automated Re-hosting.
-  authors: E. Gustafson, M. Muench, C. Spensky, N. Redini,  Aravind Machiry , Y. Fratantonio, D. Balzarotti, A. Francillon, Y. E. Choe, C. Kruegel, G. Vigna.
+  authors: E. Gustafson, M. Muench, C. Spensky, N. Redini, Aravind Machiry, Y. Fratantonio, D. Balzarotti, A. Francillon, Y. E. Choe, C. Kruegel, G. Vigna
   description:
   link:
     url: /files/pretender.pdf
-    display: RAID 2019- 22nd International Symposium on Research in Attacks, Intrusions and Defenses.
+    display: RAID 2019 - 22nd International Symposium on Research in Attacks, Intrusions and Defenses.
   highlight: 0
   news2:
 
 - title: BinTrimmer - Towards Static Binary Debloating Through Abstract Interpretation.
-  authors: N. Redini, R. Wang,  Aravind Machiry, Y. Shoshitaishvili, C. Kruegel and G. Vigna.
+  authors: N. Redini, R. Wang, Aravind Machiry, Y. Shoshitaishvili, C. Kruegel and G. Vigna
   description:
   link:
     url: /files/bintrimmer.pdf
-    display: DIMVA 2019- 16th International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment.
+    display: DIMVA 2019 - 16th International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment.
   highlight: 0
   news2:
 
 - title: Automatically Generating a Sound and Complete Dataset for Evaluating Static Analysis Tools.
-  authors: Aravind Machiry, N. Redini, E. Gustafson, H. Aghakhani, C. Kruegel and G. Vigna.
+  authors: Aravind Machiry, N. Redini, E. Gustafson, H. Aghakhani, C. Kruegel and G. Vigna
   description:
   link:
     url: /files/autofacts.pdf
-    display: BAR 2019- 2nd Binary Analysis Research Workshop.
+    display: BAR 2019 - 2nd Binary Analysis Research Workshop.
   highlight: 0
   news2:
 
 - title: Using Loops For Malware Classification Resilient to Feature-unaware Perturbations.
-  authors: Aravind Machiry, N. Redini, E. Gustafson, Y. Fratantonio, Y. E. Choe, C. Kruegel and G. Vigna.
+  authors: Aravind Machiry, N. Redini, E. Gustafson, Y. Fratantonio, Y. E. Choe, C. Kruegel and G. Vigna
   description:
   link:
     url: /files/loopmc.pdf
@@ -405,7 +404,7 @@
   news2:
 
 - title: Detecting Deceptive Reviews using Generative Adversarial Networks.
-  authors: H. Aghakhani,  Aravind Machiry, S. Nilizadeh, C. Kruegel and G. Vigna.
+  authors: H. Aghakhani, Aravind Machiry, S. Nilizadeh, C. Kruegel and G. Vigna
   description:
   link:
     url: /files/dls1.pdf
@@ -414,7 +413,7 @@
   news2:
 
 - title: Broken Fingers - On the Usage of the Fingerprint API in Android.
-  authors: A. Bianchi, Y. Fratantonio,  Aravind Machiry, C. Kruegel, G. Vigna, S. Chung, W. Lee.
+  authors: A. Bianchi, Y. Fratantonio, Aravind Machiry, C. Kruegel, G. Vigna, S. Chung, W. Lee
   description:
   link:
     url: /files/fingerpri.pdf
@@ -426,13 +425,13 @@
   authors: A. Bianchi, K. Borgolte, J. Corbetta, F. Disperati, A. Dutcher, J. Grosen, P. Grosen, Aravind Machiry, C. Salls, N. Stephens, G. Vigna, R. Wang (Authors listed alphabetically)
   description:
   link:
-    url: 
-    display: IEEE Security & Privacy Magazine 2018 - SPSI - Hacking without Humans.
+    url:
+    display: In IEEE Security & Privacy Magazine 2018 - SPSI - Hacking without Humans.
   highlight: 0
   news2:
 
 - title: BootStomp - On the Security of Bootloaders in Mobile Devices.
-  authors: N. Redini, Aravind Machiry, D. Das, Y. Fratantonio, A. Bianchi, E. Gustafson, Y. Shoshitaishvili, C. Kruegel, G. Vigna.
+  authors: N. Redini, Aravind Machiry, D. Das, Y. Fratantonio, A. Bianchi, E. Gustafson, Y. Shoshitaishvili, C. Kruegel, G. Vigna
   description:
   link:
     url: https://media.ccc.de/v/34c3-9205-bootstomp_on_the_security_of_bootloaders_in_mobile_devices
@@ -444,13 +443,13 @@
   authors: J. Corina, Aravind Machiry, C. Salls, Y. Shoshitaishvili, S. Hao
   description:
   link:
-    url: 
-    display: Black Hat Europe, London, UK, December 2017.
+    url:
+    display: BH - Black Hat Europe London, UK December, 2017.
   highlight: 0
   news2:
 
 - title: DIFUZE - Interface Aware Fuzzing for Kernel Drivers.
-  authors: J. Corina, Aravind Machiry, C. Salls, Y. Shoshitaishvili, S. Hao, C. Kruegel, and G. Vigna.
+  authors: J. Corina, Aravind Machiry, C. Salls, Y. Shoshitaishvili, S. Hao, C. Kruegel, and G. Vigna
   description:
   link:
     url: /files/difuze.pdf
@@ -459,7 +458,7 @@
   news2:
 
 - title: DR.CHECKER - A Soundy Analysis for Linux Kernel Drivers.
-  authors: Aravind Machiry, C. Spensky, J. Corina, N. Stephens, C. Kruegel, G. Vigna.
+  authors: Aravind Machiry, C. Spensky, J. Corina, N. Stephens, C. Kruegel, G. Vigna
   description:
   link:
     url: /files/sec17-machiry.pdf
@@ -468,7 +467,7 @@
   news2:
 
 - title: BootStomp - On the Security of Bootloaders in Mobile Devices.
-  authors: N. Redini, Aravind Machiry, D. Das, Y. Fratantonio, A. Bianchi, E. Gustafson, Y. Shoshitaishvili, C. Kruegel, G. Vigna.
+  authors: N. Redini, Aravind Machiry, D. Das, Y. Fratantonio, A. Bianchi, E. Gustafson, Y. Shoshitaishvili, C. Kruegel, G. Vigna
   description:
   link:
     url: /files/sec17-redini.pdf
@@ -477,7 +476,7 @@
   news2:
 
 - title: BOOMERANG - Exploiting the Semantic Gap in Trusted Execution Environments.
-  authors: Aravind Machiry, E. Gustafson, C. Spensky, C. Salls, N. D. Stephens, R. Wang, A. Bianchi, Y. E. Choe, C. Kruegel, G. Vigna.
+  authors: Aravind Machiry, E. Gustafson, C. Spensky, C. Salls, N. D. Stephens, R. Wang, A. Bianchi, Y. E. Choe, C. Kruegel, G. Vigna
   description:
   link:
     url: /files/boom.pdf
@@ -486,7 +485,7 @@
   news2:
 
 - title: Ramblr - Making Reassembly Great Again.
-  authors: R. Wang, Y. Shoshitaishvili, A. Bianchi, Aravind Machiry, J. Grosen, P. Grosen, C. Kruegel, G. Vigna.
+  authors: R. Wang, Y. Shoshitaishvili, A. Bianchi, Aravind Machiry, J. Grosen, P. Grosen, C. Kruegel, G. Vigna
   description:
   link:
     url: /files/ram.pdf
@@ -495,7 +494,7 @@
   news2:
 
 - title: Cyber Grand Shellphish.
-  authors: A. Bianchi, K. Borgolte, J. Corbetta, F. Disperati, A. Dutcher, J. Grosen, P. Grosen, Aravind Machiry, C. Salls, N. Stephens, G. Vigna, R. Wang (Authors listed alphabetically) .
+  authors: A. Bianchi, K. Borgolte, J. Corbetta, F. Disperati, A. Dutcher, J. Grosen, P. Grosen, Aravind Machiry, C. Salls, N. Stephens, G. Vigna, R. Wang (Authors listed alphabetically)
   description:
   link:
     url: /files/phrack2017.txt
@@ -504,7 +503,7 @@
   news2:
 
 - title: CLAPP - Characterizing Loops in Android Applications.
-  authors: Y. Fratantonio, Aravind Machiry, A. Bianchi, C. Kruegel, G. Vigna.
+  authors: Y. Fratantonio, Aravind Machiry, A. Bianchi, C. Kruegel, G. Vigna
   description:
   link:
     url: /files/clapp.pdf
@@ -513,7 +512,7 @@
   news2:
 
 - title: CLAPP - Characterizing Loops in Android Applications (Invited Talk)
-  authors: Y. Fratantonio, Aravind Machiry, A. Bianchi, C. Kruegel, G. Vigna.
+  authors: Y. Fratantonio, Aravind Machiry, A. Bianchi, C. Kruegel, G. Vigna
   description:
   link:
     url: /files/demob.pdf
@@ -522,11 +521,10 @@
   news2:
 
 - title: Dynodroid - An Input Generation System for Android Apps.
-  authors: Aravind Machiry, Rohan Tahiliani, Mayur Naik.
+  authors: Aravind Machiry, Rohan Tahiliani, Mayur Naik
   description:
   link:
     url: /files/dd.pdf
     display: FSE 2013 - ACM Symposium on Foundations of Software Engineering.
   highlight: 0
   news2:
-
