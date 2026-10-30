@@ -1,0 +1,15 @@
+- category: PhD and Advising
+  items:
+    - title: A Survival Guide to a PhD
+      author: Andrej Karpathy
+      url: https://karpathy.github.io/2016/09/07/phd/
+
+    - title: Do you need a Ph.D.?
+      author:
+      url: https://medium.com/great-research/do-you-need-a-ph-d-f78d2fb0f286
+
+- category: Research Skills
+  items:
+    - title: How to Give a Bad Practice Talk
+      author: Milo Martin
+      url: https://acg.cis.upenn.edu/milom/practice-talk.html
