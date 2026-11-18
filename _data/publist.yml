@@ -1,3 +1,12 @@
+- title: AutoSOUP - Safety-Oriented Unit Proof Generation for Memory-Safety Verification.
+  authors: P. Amusuo, R. Calvo, D. Anandayuvaraj, T. Le Lievre, K. Kolyakov, E. Jorgensen, Aravind Machiry, J. C. Davis
+  description:
+  link:
+    url: https://doi.org/10.1145/3830454.3846765
+    display: CCS 2026 - Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security.
+  highlight: 0
+  news2:
+
 - title: Democratizing False Positives Filtering Through Learning Assisted Reasoning.
   authors: M. Shen, S. R. Tanksalkar, C. Hauser, Aravind Machiry
   description:
